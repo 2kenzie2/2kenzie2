@@ -24,7 +24,7 @@
 **Languages**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,dart,mysql" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,dart,mysql,python" />
 </p>
 
 **Web & Frameworks**
